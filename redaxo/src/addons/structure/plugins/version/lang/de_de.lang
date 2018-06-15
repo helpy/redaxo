@@ -2,6 +2,12 @@ version = Version
 
 version_liveversion = Liveversion
 version_workingversion = Arbeitsversion
+version_title_switch_to_live = Artikel in Arbeitsversion! Durch Klick zur Liveversion umschalten.
+version_title_switch_to_work = Artikel in Liveversion! Durch Klick zur Arbeitsversion umschalten.
+version_title_work_only = Sie haben nur die Berechtigung die Arbeitsversion zu bearbeiten.
+version_title_copy_work_to_live = Die Arbeitsversion des Artikels freigeben und in die Liveversion kopieren.
+version_title_copy_live_to_work = Die Liveversion des Artikels in die Arbeitsversion kopieren.
+version_title_preview = Die Arbeitsversion in einer Voransicht anzeigen.
 version_working_to_live = als Liveversion freigeben
 version_preview = Voransicht
 version_copy_live_to_workingversion = in Arbeitsversion kopieren
